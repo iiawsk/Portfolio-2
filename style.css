@@ -1,0 +1,220 @@
+body
+{
+    font-family: "Freeman", sans-serif;
+    margin: 0;
+}
+.t1
+{
+    background-image: url('https://img.freepik.com/premium-photo/dark-blue-purple-magenta-background-gradient-abstract-colorful-beautiful-background-with-space_629685-3477.jpg');
+    color: white;
+    height: 100vh;
+    display: flex;
+}
+.t2
+{
+    background-image: url('https://kartinki.pics/uploads/posts/2021-07/thumbs/1626133662_62-kartinkin-com-p-tyomno-fioletovii-fon-krasivo-64.jpg');
+    color: white;
+    height: 100vh;
+    display: flex;
+}
+.t3
+{
+    background-image: url('https://i.pinimg.com/originals/45/0e/05/450e05bc2b81dd9806ad5bf73616dcc2.jpg');
+    color: white;
+    height: 100vh;
+}
+.t4
+{
+    background-image: url('https://kartinki.pics/uploads/posts/2020-07/1593704656_65-p-temno-fioletovii-fon-81.jpg');
+    color: white;
+    height: 300vh;
+}
+.t5
+{
+    background-image: url('https://img.freepik.com/premium-photo/studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-for-product_1258-53629.jpg');
+    color: white;
+    height: 150vh;
+}
+.t6
+{
+    background-image: url('https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30707.jpg?size=338&ext=jpg&ga=GA1.1.2116175301.1714435200&semt=ais');
+    color: white;
+    height: 200vh;
+}
+.emp
+{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp1
+{
+
+}
+.emp2
+{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp3
+{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp4
+{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp5
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp6
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp7
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp8
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp9
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp10
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp11
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 50vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp12
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp13
+{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;  
+}
+.iii
+{
+    color: white;
+    height: 100vh;
+    display: flex;
+}
+.jjj
+{
+    color: white;
+    height: 100vh;
+    display: flex;
+}
+.lll
+{
+    color: white;
+    height: 100vh;
+    display: flex;
+}
+h1
+{
+    line-height: 120px;
+    margin: 50px 0;
+    font-size: 9rem;
+}
+h2
+{
+    font-size: 80px;
+    margin: 0;
+    font-weight: 400;
+}
+h3
+{
+    font-size: 40px;
+    margin: 0;
+    font-weight: 400;
+}
+h4
+{
+    font-size: 30px;
+    margin: 0;
+    font-weight: 400;
+}
+h5
+{
+    font-size: 30px;
+    margin: 0;
+    font-weight: 400;
+}
